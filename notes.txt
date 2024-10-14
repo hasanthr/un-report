@@ -1,2 +1,3 @@
 We plotted life expectancy over time.
 Start NOTES on analysis
+Continents are grouped by color.
